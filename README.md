@@ -3,6 +3,11 @@
 • React for the ui<br>
 • JSON-server for our mock backend
 
+## About
+
+A simple task tracker that allows you to add tasks and delete them to keep up with our busy life.<br>
+The goal of this project was to get familiar with React Hooks.<br>
+
 ## Usage
 
 Install dependencies<br>
