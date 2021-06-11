@@ -5,7 +5,7 @@
 
 ## About
 
-A simple task tracker that allows you to add tasks and delete them to keep up with our busy life.<br>
+A simple task tracker that allows you to add tasks and delete them to keep up with our busy life.
 The goal of this project was to get familiar with React Hooks.<br>
 
 ## Usage
