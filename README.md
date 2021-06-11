@@ -1,11 +1,11 @@
 # React Task Tracker
 
-• React for the ui
+• React for the ui<br>
 • JSON-server for our mock backend
 
 ## Usage
 
-Install dependencies <br>
+Install dependencies<br>
 `npm install`
 
 Run React dev server (http://localhost:3000)<br>
